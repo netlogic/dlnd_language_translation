@@ -4,12 +4,16 @@ I look forward to any help or comments.
 
 All files can be found at the following github address:
 
-    https://github.com/netlogic/dlnd_language_translation/commits/master
+    https://github.com/netlogic/dlnd_language_translation
 
 The commit history as I built the neural network can be found at:
 
     https://github.com/netlogic/dlnd_language_translation/commits/master
 
+The requested html output is in the file in github as:
+
+    dlnd_language_translation.html
+  
 This project relied on the classwork of the Sequence To Sequence
 project (Lesson 10 of the RNN section) which alphabetized 
 a sequence of random letter fed into the system.
